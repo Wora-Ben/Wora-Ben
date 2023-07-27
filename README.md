@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Wora-Ben
 - 👀 I’m interested in Back-end
-- 🌱 I’m currently learning JAVA
+- 🌱 I’m currently learning JAVA AND RUST
 
 <!---
 Wora-Ben/Wora-Ben is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
